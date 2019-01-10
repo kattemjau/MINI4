@@ -28,7 +28,7 @@ C23:			0603 220n 25V
 C1,C2,C3:		0603 470n 25V
 C6,C7,C8,C9,C10,C11,
 C87,C88,C89,C90,C17,
-C18,C86,C78,C77:	0603 2u2 25V https://lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-Leaded_LCSC-1000uF-63V_C10744.html
+C18,C86,C78,C77:	0603 2u2 25V 
 C48,C49,C50,C51,C52,
 C53,C54,C55,C82,C33,
 C34,C37,C38,C40,C41,
@@ -40,6 +40,6 @@ C83,C12,C13,C56,C44,
 C4,C5,C61,C63,C84,
 C25,C32,C35,C36,C39,
 C60,C62,C74,C85,C79,
-C80,C24:		1206 2u2 100V
+C80,C24:		1206 2u2 100V https://lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-Leaded_LCSC-1000uF-63V_C10744.html
 C25:			1206 10u 16V
 P11,P10,P9:		Micro JST ZH 1.5mm 6-Pin
